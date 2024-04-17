@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157290968613",
+    "project_id": "practica10-1e426",
+    "storage_bucket": "practica10-1e426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157290968613:android:48402d641fb25cd81bb1cc",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmwDs9kWwDKgVShZ7p26GmeWC5NoBi8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
